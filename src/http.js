@@ -29,7 +29,7 @@ app.use(recordingRoutes);
 
 
 app.get('/', (request, response) => {
-  return response.status(200).send("tudo suave");
+  return response.status(200).send("tudo suave, cumpade");
 })
 
 
